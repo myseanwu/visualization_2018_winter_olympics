@@ -2,6 +2,7 @@
 
 ## 2018 Winter Olympics - Data visualization, Python, Altair 
 
+> *Interactive version*
 > https://immense-plateau-78392.herokuapp.com/
 
 ![image info](./images/image11.png)
